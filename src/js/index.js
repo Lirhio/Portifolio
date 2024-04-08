@@ -19,4 +19,3 @@ function btnFunc() {
 }
 
 btn.addEventListener('click', btnFunc);
->
